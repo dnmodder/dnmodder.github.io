@@ -1,0 +1,35 @@
+{
+    "elementos": [
+        {
+            "texto": "Cuentas",
+            "enlace": "#",
+            "clase": "horizontal",
+            "elementos": [
+                {
+                    "texto": "Cuenta de Ahorro en Pesos",
+                    "enlace": "#",
+                    "clase": "vertical",
+                    "elementos": null
+                }
+            ]
+        },
+        {
+            "texto": "Tarjetas",
+            "enlace": "#",
+            "clase": "horizontal",
+            "elementos": null
+        },
+        {
+            "texto": "Prestamos",
+            "enlace": "#",
+            "clase": "horizontal",
+            "elementos": null
+        },
+        {
+            "texto": "Seguros",
+            "enlace": "#",
+            "clase": "horizontal",
+            "elementos": null
+        }
+    ]
+}
